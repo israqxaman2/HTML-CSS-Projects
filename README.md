@@ -30,7 +30,7 @@ HTML-CSS-Projects/
 ## 🚀 Projects
 
 ### 01 · Personal Portfolio
-**Folder:** `portfolio/`
+**Folder:** `Personal Portfolio/`
 
 A fully responsive personal portfolio website showcasing my skills, work, and contact information.
 
@@ -39,7 +39,7 @@ A fully responsive personal portfolio website showcasing my skills, work, and co
 - Smooth scroll and interactive UI via JavaScript
 - Clean, modern layout
 
-**Live Demo:** [View on Netlify](#) ← *(replace with your Netlify URL)*
+**Live Demo:** (https://devbyisraq.netlify.app/)
 
 
 > More projects will be added here as they are completed.
